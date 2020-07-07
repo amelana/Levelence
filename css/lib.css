@@ -608,10 +608,10 @@ body {
                   .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise--from8 {
                     font-weight: 500;
                     color: #000; }
-                  .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise .price-discount {
+                  .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise .prise-discount {
                     display: inline-block; }
                   .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise .prise-procent {
-                    display: inline-block; }
+                    display: block; }
                   .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise .prise-without-discont {
                     display: block; }
                   .wrapper .section .page__row .page__column .page__item .page-product .page-product-contant .page-product-contant-item__prise .prise-from {
